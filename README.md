@@ -70,7 +70,7 @@ You don't need to build this tool yourself. A pre-built `.exe` file (intended to
 
 5.  **View Results:**
     The tool will process each seed phrase and display any addresses with a balance above the minimum threshold, along with their balances on the supported networks in the console.
-    ![Example Output](https://ibb.co/RktgKPz0)
+    ![Example Output](https://i.ibb.co/ZpvfrKW8/Screenshot-211.png)
 
 ## Supported Networks
 
